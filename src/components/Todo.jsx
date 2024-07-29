@@ -63,7 +63,7 @@ export function TodoList({ item, newTodo, setNewTodo }) {
       </button>
 
       <button className="edit" onClick={editButton}>
-        Edit avoireeeeeeeeeeeeeeeeeeeeee
+        Edit
       </button>
     </div>
   );
